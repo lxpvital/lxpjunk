@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @lxpjunk
+- 👋 Hi, I’m @lxpvital
 - 👀 I’m interested in open source software.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -- Please email lxpjunk@byu.net.
 
 <!---
-lxpjunk/lxpjunk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+lxpvital/lxpvital is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
